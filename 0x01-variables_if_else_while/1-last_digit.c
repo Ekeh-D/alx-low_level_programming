@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * author: Favour Johnson
+ * author: Ekeh Divine
  * date:09-09-2022
  * Return: 0 (success)
  */
